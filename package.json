@@ -1,6 +1,6 @@
 {
   "name": "pline",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "pipelining for TS",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
