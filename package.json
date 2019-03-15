@@ -1,0 +1,26 @@
+{
+  "name": "pline",
+  "version": "0.0.2",
+  "description": "pipelining for TS",
+  "main": "./lib/index.js",
+  "typings": "./lib/index.d.ts",
+  "files": [
+    "./lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Tosuke/pline.git"
+  },
+  "author": "Tosuke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tosuke/pline/issues"
+  },
+  "homepage": "https://github.com/Tosuke/pline#readme",
+  "devDependencies": {
+    "typescript": "^3.4.0-dev.20190314"
+  }
+}
